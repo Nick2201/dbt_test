@@ -1,0 +1,12 @@
+{
+    "git.ignoreLimitWarning": true,
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "2_ai",
+            "database": "\\\\wsl.localhost\\Ubuntu-22.04\\home\\nick\\projects\\sec_api\\2_ai.db"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
